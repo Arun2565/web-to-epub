@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Content Conversion",
+      "description": "Convert YouTube videos, Substack transcripts, and web articles to EPUB ebooks.",
+      "skills": ["web-to-epub"]
+    }
+  ]
+}
