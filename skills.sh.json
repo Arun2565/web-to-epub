@@ -4,7 +4,7 @@
   "groupings": [
     {
       "title": "Content Conversion",
-      "description": "Convert YouTube videos, Substack transcripts, and web articles to EPUB ebooks.",
+      "description": "Tools for converting YouTube videos, Substack podcasts, and web articles into structured EPUB ebooks. Supports monologue and conversation format detection, named chapter generation from content analysis, and automatic image embedding — ideal for offline reading of lectures, interviews, and blog posts.",
       "skills": ["web-to-epub"]
     }
   ]

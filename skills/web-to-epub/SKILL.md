@@ -1,6 +1,6 @@
 ---
 name: web-to-epub
-description: "Convert YouTube videos, Substack transcripts, and web articles to EPUB ebooks — with conversation and monologue formatting."
+description: "Convert YouTube videos, Substack podcasts, and web articles into structured EPUB ebooks for offline reading. Detects monologue vs conversation format, generates named chapters from content analysis, embeds images, and supports both transcript styles. Handles YouTube URLs, Substack posts, and general web articles."
 version: 2.0.0
 author: Rohit, Hermes Agent
 license: MIT
