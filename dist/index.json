@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "web-to-epub",
+      "description": "Convert YouTube videos, Substack transcripts, and web articles to EPUB ebooks — with conversation and monologue formatting.",
+      "type": "archive",
+      "url": "https://raw.githubusercontent.com/Arun2565/web-to-epub/main/dist/web-to-epub.tar.gz",
+      "digest": "sha256:56be9fbcc6b221c4780c5fdfd155b496aa9f174e6064a7249ffe63946cebbab7"
+    }
+  ]
+}
